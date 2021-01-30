@@ -8,3 +8,8 @@ This CNC controller is based on the [6 Pack CNC Controller](https://github.com/b
 - No jumpers to set.
 - Outputs 5V signals with enough current to driver the optically isolated inputs most driver use.
 - Fully compatible with all the CNC I/O module of a 6 Pack.
+- A couple of extra I2S0 output pins.
+
+### Open Source
+
+The design is open source. There is a JLCPCB assembly friendly BOM to get most of the SMT parts assembled. You still have to solder the SD card socket. That part is available at LCSC, but not part of the JLC assembly parts list. 
